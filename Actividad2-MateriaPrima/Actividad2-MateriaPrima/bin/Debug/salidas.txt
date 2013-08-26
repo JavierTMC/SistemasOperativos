@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfSalida xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Salida>
+    <Nombre>Camaras</Nombre>
+    <Cantidad>50</Cantidad>
+    <PrecioUnitario>2</PrecioUnitario>
+    <ProyectoDestino>Bici</ProyectoDestino>
+    <Total>100</Total>
+  </Salida>
+  <Salida>
+    <Nombre>Anillos</Nombre>
+    <Cantidad>60</Cantidad>
+    <PrecioUnitario>50</PrecioUnitario>
+    <ProyectoDestino>Carro</ProyectoDestino>
+    <Total>3000</Total>
+  </Salida>
+  <Salida>
+    <Nombre>Soporte</Nombre>
+    <Cantidad>3</Cantidad>
+    <PrecioUnitario>300</PrecioUnitario>
+    <ProyectoDestino>Carro</ProyectoDestino>
+    <Total>900</Total>
+  </Salida>
+</ArrayOfSalida>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfSalida xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Salida>
+    <Nombre>Anillos</Nombre>
+    <Cantidad>60</Cantidad>
+    <PrecioUnitario>50</PrecioUnitario>
+    <ProyectoDestino>Carro</ProyectoDestino>
+    <Total>3000</Total>
+  </Salida>
+</ArrayOfSalida>

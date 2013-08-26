@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfEntradas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entradas>
+    <Nombre>Soporte</Nombre>
+    <Cantidad>50</Cantidad>
+    <PrecioUnitario>300</PrecioUnitario>
+  </Entradas>
+  <Entradas>
+    <Nombre>Anillos</Nombre>
+    <Cantidad>300</Cantidad>
+    <PrecioUnitario>50</PrecioUnitario>
+  </Entradas>
+  <Entradas>
+    <Nombre>Camaras</Nombre>
+    <Cantidad>1000</Cantidad>
+    <PrecioUnitario>2</PrecioUnitario>
+  </Entradas>
+</ArrayOfEntradas><?xml version="1.0"?>
+<ArrayOfEntradas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entradas>
+    <Nombre>Soporte</Nombre>
+    <Cantidad>47</Cantidad>
+    <PrecioUnitario>300</PrecioUnitario>
+  </Entradas>
+  <Entradas>
+    <Nombre>Anillos</Nombre>
+    <Cantidad>240</Cantidad>
+    <PrecioUnitario>50</PrecioUnitario>
+  </Entradas>
+  <Entradas>
+    <Nombre>Camaras</Nombre>
+    <Cantidad>950</Cantidad>
+    <PrecioUnitario>2</PrecioUnitario>
+  </Entradas>
+</ArrayOfEntradas>
